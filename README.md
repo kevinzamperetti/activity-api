@@ -9,7 +9,7 @@ Por se tratar de uma API criada para testes de API, ela possui alguns bugs, para
 ## Requisitos
 Antes de executar o projeto, certifique-se de ter os seguintes itens instalados:
 
-- [JDK 21+](https://adoptium.net/) se não possuir, pode baixar e instalar o java 21 através deste link.
+- [JDK 17+](https://adoptium.net/temurin/releases/?version=17) se não possuir, pode baixar e instalar o java 17 através deste link.
 
 ## Como Executar
 1. Acessar a pasta onde está o JAR que lhe foi enviado atrvés do terminal/cmd:
